@@ -39,7 +39,7 @@
   ],
   "dependencies": {
     "animejs": "^2.2.0",
-    "browserify-css": "^0.8.4",
+    "browserify-css": "^0.11.0",
     "custom-event-polyfill": "^1.0.6",
     "debug": "ngokevin/debug#noTimestamp",
     "deep-assign": "^2.0.0",
